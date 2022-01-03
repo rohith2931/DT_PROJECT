@@ -1,0 +1,16 @@
+backup
+design
+wiki
+node_modules
+npm-debug.log
+tmp
+doc
+cdn
+TODO.md
+test/google-key.helper.js
+example/iframed.html
+example/test.html
+.grunt
+_specRunner.html
+/test/.cov/
+Gruntfile.js
